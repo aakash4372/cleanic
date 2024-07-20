@@ -1,6 +1,7 @@
 # Cleaning-Project
 
-![image](https://github.com/user-attachments/assets/fa0be5b5-dc03-4263-8162-62cb67f3d388)
+![image](https://github.com/user-attachments/assets/daca08ec-3f39-4703-a66e-4e8831553bb4)
+
 
 
 # Overview
